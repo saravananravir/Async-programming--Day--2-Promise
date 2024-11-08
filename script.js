@@ -23,7 +23,7 @@ row1.textContent = 'RestCountries Weather Details';
 
 let row2 = document.createElement('div');
 row2.setAttribute('class', 'row justify-content-center');
-row2.setAttribute('style', 'background-color:#6f7385');
+row2.setAttribute('style', 'background-color:#fff');
 
 getCards();
 
